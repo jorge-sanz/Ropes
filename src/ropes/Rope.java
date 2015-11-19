@@ -10,7 +10,7 @@ import java.util.Stack;
  * right children) and each external node is also another rope which represents
  * a literal string.
  * 
- * @author José Luis Martín
+ * @author JosÃ© Luis MartÃ­n
  * @author Jorge Sanz
  *
  */
@@ -112,7 +112,7 @@ public class Rope {
 				}
  			}
 		} else {
-			throw new Exception("El índice supera la longitud del rope");
+			throw new Exception("El Ã­ndice supera la longitud del rope");
 		}
 	}
 	
@@ -141,8 +141,8 @@ public class Rope {
 				ropesStack.push(temporalLeftRope);
 			}
 		}
-		return makeABalancedTree(listOfOrderedExternalRopes);
 		
+		return makeABalancedTree(listOfOrderedExternalRopes);
 	}
 	
 	/**
