@@ -8,4 +8,4 @@ Exercise requirements: [here](https://github.com/jorge-sanz/Ropes/blob/master/ex
 * José Luis Martín Martín
 
 ## WhatIAmDoingInUniveristy
-This repository is part of a list of (University projects)[https://github.com/jorge-sanz/WhatIAmDoingInUniversity].
+This repository is part of a list of [University projects](https://github.com/jorge-sanz/WhatIAmDoingInUniversity).
