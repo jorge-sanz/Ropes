@@ -1,11 +1,15 @@
 # Ropes
-University project - String implementation with Rope (ADT)
+String implementation with Rope data structure. Exercise requirements: [here](https://github.com/jorge-sanz/Ropes/blob/master/exercise.pdf).
 
-Exercise requirements: [here](https://github.com/jorge-sanz/Ropes/blob/master/exercise.pdf)
+### Story behind this
+Project for Algorithms Structure & Design course at University of Valladolid.
 
-## Authors:
-* [Jorge Sanz Pérez](https://twitter.com/_jorgesanz)
-* José Luis Martín Martín
+## Usage
+[TODO]
 
-## WhatIAmDoingInUniveristy
-This repository is part of a list of [University projects](https://github.com/jorge-sanz/WhatIAmDoingInUniversity).
+## Development
+[TODO]
+
+## Authors
+* [Jorge Sanz Pérez](https://github.com/jorge-sanz)
+* [José Luis Martín Martín](https://github.com/josedl4)
